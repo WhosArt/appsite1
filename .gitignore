@@ -1,7 +1,7 @@
 #python stuff
 venv/
 .pylintrc
-__pychace__/
+__pycache__/
 
 #ide stuff
 .vscode
